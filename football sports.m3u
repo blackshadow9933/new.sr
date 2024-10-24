@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Austria_1_AT_Logo_2020.svg/1200px-Sky_Sport_Austria_1_AT_Logo_2020.svg.png",Sky Sport Austria 1
+http://p1.cvtv.xyz/SA1?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sky_Sport_Austria_2_AT_Logo_2020.svg/1200px-Sky_Sport_Austria_2_AT_Logo_2020.svg.png",Sky Sport Austria 2
+http://p1.cvtv.xyz/SA2?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sky_Sport_Austria_3_AT_Logo_2020.svg/1200px-Sky_Sport_Austria_3_AT_Logo_2020.svg.png",Sky Sport Austria 3
+http://p1.cvtv.xyz/SA3?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sky_Sport_Austria_4_AT_Logo_2020.svg/1200px-Sky_Sport_Austria_4_AT_Logo_2020.svg.png",Sky Sport Austria 4
+http://p1.cvtv.xyz/SA4?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sky_Sport_Austria_5_AT_Logo_2020.svg/1200px-Sky_Sport_Austria_5_AT_Logo_2020.svg.png",Sky Sport Austria 5
+http://p1.cvtv.xyz/SA5?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png",DAZN 1
+http://p1.cvtv.xyz/DZ1?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.s vg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.s vg.png",M+LC
+http://p1.cvtv.xyz/lc?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
+http://p1.cvtv.xyz/tnt1?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
+http://p1.cvtv.xyz/tnt2?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
+http://p1.cvtv.xyz/tnt3?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 4Mbps for 4G
+http://p1.cvtv.xyz/tnt4?token=live
+#EXTINF:-1 group-title="UEFA" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tntsp5.png",TNT Sports 5 4Mbps for 4G
+http://p1.cvtv.xyz/tnt5?token=live
