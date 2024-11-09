@@ -100,25 +100,25 @@ https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="BDCast",Deepto TV HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="BDCast",Somoy News 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="BDCast",ATN Bangla HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8
+http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png" tvg-chno="4" group-title="BDCast",ATN Music 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="BDCast",Asian TV 
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="BDCast",Bangla Vision HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="BDCast",ATN News 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=08edaaca&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="BDCast",Bioshakhi TV 
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -133,58 +133,56 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8
 
 #EXTINF:-1 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="BDCast",Channel 9 HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="c7608fa9" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" tvg-chno="13" group-title="BDCast",Channel 24 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=c7608fa9&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vdce53cs" tvg-name="Channel I HD" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" tvg-chno="14" group-title="BDCast",Channel I HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="19414441" tvg-name="DBC News 24/7" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" tvg-chno="15" group-title="BDCast",DBC News 24/7 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=19414441&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="649941fa" tvg-name="Desh TV Live" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" tvg-chno="16" group-title="BDCast",Desh TV Live 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="90d7bc25" tvg-name="Ekattor TV HD" tvg-logo="https://i.postimg.cc/YqRdQgzB/Ekattor-TV-HD.png" tvg-chno="17" group-title="BDCast",Ekattor TV HD 
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=90d7bc25&e=.m3u8
 
 #EXTINF:-1 tvg-id="6ed8e577" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png" tvg-chno="18" group-title="BDCast",Ekushey TV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=6ed8e577&e=.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:-1 tvg-id="h8d56bee" tvg-name="Gaan Bangla" tvg-logo="https://i.postimg.cc/6pwDXnB8/Gaan-Bangla.png" tvg-chno="19" group-title="BDCast",Gaan Bangla 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=h8d56bee&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="89b4zb3d" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png" tvg-chno="20" group-title="BDCast",Jamuna TV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="f190c3dt" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="21" group-title="BDCast",Maasranga HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=f190c3dt&e=.m3u8
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="hhzi207e" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="22" group-title="BDCast",Maasranga HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=hhzi207e&e=.m3u8
 
 #EXTINF:-1 tvg-id="70znfha3" tvg-name="News24 HD" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" tvg-chno="23" group-title="BDCast",News24 HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=70znfha3&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="BDCast",RTV HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=adei2579&e=.m3u8
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 
 #EXTINF:-1 tvg-id="1938a86s" tvg-name="SATV" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" tvg-chno="25" group-title="BDCast",SATV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="BDCast",NTV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
+http://103.230.105.252:1935/live/ntv/manifest.m3u8
 
 #EXTINF:-1 tvg-id="sllfd45v" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" tvg-chno="27" group-title="BDCast",Independent TV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=sllfd45v&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="BDCast",Ananda TV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="BDCast",Mohona TV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xhv98NSI" tvg-name="Bangla TV HD" tvg-logo="https://i.postimg.cc/Rhj2tXpv/Bangla-TV-HD.png" tvg-chno="30" group-title="BDCast",Bangla TV HD 
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=xhv98NSI&e=.m3u8 
@@ -193,7 +191,7 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=xhv98NSI&e=.m3u8
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=tn1z61cp&e=.m3u8
 
 #EXTINF:-1 tvg-id="b9deo5z8" tvg-name="Amar Bangla" tvg-logo="https://i.postimg.cc/XY4crCKR/Aamar-Bangla.png" tvg-chno="32" group-title="BDCast",Amar Bangla 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=b9deo5z8&e=.m3u8
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-id="hi8d62ma" tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/L8sdzn2W/Colors-Bangla-HD.png" tvg-chno="33" group-title="BDCast",Colors Bangla HD 
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=hi8d62ma&e=.m3u8
@@ -232,25 +230,22 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=128c3o95&e=.m3u8
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=93z1f0zv&e=.m3u8
 
 #EXTINF:-1 tvg-id="5150x44c" tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" tvg-chno="45" group-title="BDCast",Discovery HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=5150x44c&e=.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 tvg-id="d60o0c54" tvg-name="Republic Bangla TV" tvg-logo="https://i.postimg.cc/wxJnq4NB/Republic-Bangla.png" tvg-chno="46" group-title="BDCast",Republic Bangla TV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=d60o0c54&e=.m3u8
+https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
 
 #EXTINF:-1 tvg-id="q921cn70" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/FRDK6FxY/Zee-Bangla.png" tvg-chno="47" group-title="BDCast",Zee Bangla 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=q921cn70&e=.m3u8
-
-#EXTINF:-1 tvg-id="2oxadfdx" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png" tvg-chno="48" group-title="BDCast",Zee Bangla HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=2oxadfdx&e=.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-id="f77vf029" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" tvg-chno="49" group-title="BDCast",Zee Bangla Cinema 
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=f77vf029&e=.m3u8
 
 #EXTINF:-1 tvg-id="0RTkWfzB" tvg-name="Enter10 Bangla" tvg-logo="https://i.postimg.cc/Bvc76qGZ/Enterr10-Bangla.png" tvg-chno="50" group-title="BDCast",Enter 10 Bangla 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=0RTkWfzB&e=.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="4eavizab" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" tvg-chno="51" group-title="BDCast",Sangeet Bangla 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=4eavizab&e=.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 #EXTINF:-1 tvg-id="he4be5di" tvg-name="TV9 Bangla" tvg-logo="https://i.postimg.cc/J0zSc30y/TV9-Bangla.png" tvg-chno="52" group-title="BDCast",TV9 Bangla 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=he4be5di&e=.m3u8
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
