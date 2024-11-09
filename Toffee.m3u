@@ -112,7 +112,7 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8
 
 #EXTINF:-1 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="BDCast",Asian TV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=66c4b0b8&e=.m3u8
+https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="BDCast",Bangla Vision HD 
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8
@@ -121,12 +121,12 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=08edaaca&e=.m3u8
 
 #EXTINF:-1 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="BDCast",Bioshakhi TV 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="BDCast",BTV World HD 
-https://mhdtvplay.com/bdcast/hls/index.m3u8?id=71ad885a&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png" tvg-chno="10" group-title="BDCast",BTV Chattogram 
+#EXTINF:-1 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN-TCQbRmCNEziak19zOmA9h_DFHeoTQK83g&usqp=CAU" tvg-chno="10" group-title="BDCast",BTV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8
 
 #EXTINF:-1 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="BDCast",Sangsad Television 
@@ -246,7 +246,7 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=2oxadfdx&e=.m3u8
 #EXTINF:-1 tvg-id="f77vf029" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" tvg-chno="49" group-title="BDCast",Zee Bangla Cinema 
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=f77vf029&e=.m3u8
 
-#EXTINF:-1 tvg-id="0RTkWfzB" tvg-name="Enter10 Bangla" tvg-logo="https://i.postimg.cc/Bvc76qGZ/Enterr10-Bangla.png" tvg-chno="50" group-title="BDCast",Enterr10 Bangla 
+#EXTINF:-1 tvg-id="0RTkWfzB" tvg-name="Enter10 Bangla" tvg-logo="https://i.postimg.cc/Bvc76qGZ/Enterr10-Bangla.png" tvg-chno="50" group-title="BDCast",Enter 10 Bangla 
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=0RTkWfzB&e=.m3u8
 
 #EXTINF:-1 tvg-id="4eavizab" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" tvg-chno="51" group-title="BDCast",Sangeet Bangla 
