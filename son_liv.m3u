@@ -1,0 +1,46 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SONY LIV", Sony Sports 1 HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_ten_1&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="SONY LIV", Sony Sports 2 HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_ten_2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SONY LIV",Sony Sports 3 HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_ten_3&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="SONY LIV",Sony Sports 5 HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_ten_5&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="SONY LIV", Sony Entertainment Television HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_set&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="SONY LIV", Sony Max 
+https://shounwifi.net/api/sliv/channel.php?id=sony_max&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="SONY LIV", Sony Max HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_max_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="SONY LIV", Sony Aath
+https://shounwifi.net/api/sliv/channel.php?id=sony_aath&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony Sab HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_sab&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2421/logo/240x240/mobile_logo_799518001666784496.png" group-title="SONY LIV", Sony PAL
+https://shounwifi.net/api/sliv/channel.php?id=sony_pal&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="SONY LIV", Sony Max 2 
+https://shounwifi.net/api/sliv/channel.php?id=sony_max_2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="SONY LIV", Sony Wah HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_wah&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="SONY LIV", Sony Yay 
+https://shounwifi.net/api/sliv/channel.php?id=sony_yay&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="SONY LIV", Sony Pix HD
+https://shounwifi.net/api/sliv/channel.php?id=sony_pix&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="SONY LIV", Sony BBC Earth HD 
+https://shounwifi.net/api/sliv/channel.php?id=sony_bbc&e=.m3u8
