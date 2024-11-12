@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="SPORTS", BAN vs AFG
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainment
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="HINDI",SONY MAX
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_max
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="HINDI",B4U Movies VIP
+https://shounwifi.net/api/toffee/ferdos.php?id=b4u_movies
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="MUSIC",B4U Music VIP
+https://shounwifi.net/api/toffee/ferdos.php?id=b4umusic
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainment
 
