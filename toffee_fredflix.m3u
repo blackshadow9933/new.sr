@@ -61,28 +61,28 @@ https://shounwifi.net/api/toffee/ferdos.php?id=animal_planet_hd
 https://shounwifi.net/api/toffee/ferdos.php?id=animal_planet_sd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="DOCUMENTORY",DISCOVERY HD
-https://shounwifi.net/api/toffee/ferdos.php?id=discovery_hd
-#EXTINF:-1
- tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="DOCUMENTORY",DISCOVERY SD
-https://shounwifi.net/api/toffee/ferdos.php?id=discovery_sd
+https://bdix-toffee.iptvbd.xyz/live.php?id=f70ef199f41d&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="DOCUMENTORY",DISCOVERY SD
+https://bdix-toffee.iptvbd.xyz/live.php?id=52d1df2fdb80&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="DOCUMENTORY",DISCOVERY SCIENCE 
-https://shounwifi.net/api/toffee/ferdos.php?id=discovery_science
+https://bdix-toffee.iptvbd.xyz/live.php?id=77e72f2ba472&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="DOCUMENTORY",DISCOVERY TURBO HD
-https://shounwifi.net/api/toffee/ferdos.php?id=discovery_turbo
+https://bdix-toffee.iptvbd.xyz/live.php?id=a1c4e01414e7&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="DOCUMENTORY",Investigation Discovery HD
-https://shounwifi.net/api/toffee/ferdos.php?id=discovary_investigation_hd
+https://bdix-toffee.iptvbd.xyz/live.php?id=591ea81b1aba&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="DOCUMENTORY",Investigation Discovery 
-https://shounwifi.net/api/toffee/ferdos.php?id=discovary_investigation_sd
+https://bdix-toffee.iptvbd.xyz/live.php?id=05715523849a&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="DOCUMENTORY",TLC HD
-https://shounwifi.net/api/toffee/ferdos.php?id=tcl_hd
+https://bdix-toffee.iptvbd.xyz/live.php?id=090bf33a56cb&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="DOCUMENTORY",TLC 
-https://shounwifi.net/api/toffee/ferdos.php?id=tcl_sd
+https://bdix-toffee.iptvbd.xyz/live.php?id=e12a84713a40&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="KIDS",SONY YAY BANGLA
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_yay
