@@ -9,20 +9,8 @@ https://shounwifi.net/api/toffee/ferdos.php?id=sony_max
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="HINDI",B4U Movies VIP
 https://shounwifi.net/api/toffee/ferdos.php?id=b4u_movies
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="MUSIC",B4U Music VIP
-https://shounwifi.net/api/toffee/ferdos.php?id=b4umusic
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION
-https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainment
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="HINDI",SONY MAX
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_max
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="HINDI",B4U Movies VIP
-https://shounwifi.net/api/toffee/ferdos.php?id=b4u_movies
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC",B4U Music VIP
-https://shounwifi.net/api/toffee/ferdos.php?id=b4umusic
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORTS",SONY SPORTS TEN 1 HD
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_ten1_hd
@@ -42,14 +30,20 @@ https://shounwifi.net/api/toffee/ferdos.php?id=euro_sports_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png" group-title="SPORTS",Euro Sport
 https://shounwifi.net/api/toffee/ferdos.php?id=euro_sports_sd
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="KOLKATA",Sony Aat
-https://shounwifi.net/api/toffee/ferdos.php?id=sony_aath
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainment
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainmnt_hd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="HINDI",SONY MAX HD
 https://shounwifi.net/api/toffee/ferdos.php?id=set_max_hd
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD
-https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainmnt_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="MUSIC",B4U Music VIP
+https://shounwifi.net/api/toffee/ferdos.php?id=b4umusic
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="KOLKATA",Sony Aat
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_aath
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="HINDI",SONY SAB HD
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_sab_hd
@@ -57,14 +51,29 @@ https://shounwifi.net/api/toffee/ferdos.php?id=sony_sab_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="HINDI",SONY MAX 2
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_max_2
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="KIDS",SONY YAY BANGLA
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_yay
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="HINDI",SONY WAH
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_wah
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_bbc_earth_hd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="HINDI",SONY PIX HD
 https://shounwifi.net/api/toffee/ferdos.php?id=sony_pix_hd
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
-https://shounwifi.net/api/toffee/ferdos.php?id=sony_bbc_earth_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="HINDI",B4U Movies VIP
+https://shounwifi.net/api/toffee/ferdos.php?id=b4u_movies
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="KIDS",DISCOVERY KIDS
+https://shounwifi.net/api/toffee/ferdos.php?id=discovery_kids
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="KIDS",CARTOON NETWORK HD+
+https://shounwifi.net/api/toffee/ferdos.php?id=cartoon_network_hd
+
+#EXTINF:-1 tvg-logo="src="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png"" group-title="KIDS",POGO
+https://shounwifi.net/api/toffee/ferdos.php?id=pogo_sd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="DOCUMENTORY",ANIMAL PLANET HD
 https://shounwifi.net/api/toffee/ferdos.php?id=animal_planet_hd
@@ -95,15 +104,3 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=090bf33a56cb&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="DOCUMENTORY",TLC 
 https://bdix-toffee.iptvbd.xyz/live.php?id=e12a84713a40&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="KIDS",SONY YAY BANGLA
-https://shounwifi.net/api/toffee/ferdos.php?id=sony_yay
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="KIDS",DISCOVERY KIDS
-https://shounwifi.net/api/toffee/ferdos.php?id=discovery_kids
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="KIDS",CARTOON NETWORK HD+
-https://shounwifi.net/api/toffee/ferdos.php?id=cartoon_network_hd
-
-#EXTINF:-1 tvg-logo="src="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png"" group-title="KIDS",POGO
-https://shounwifi.net/api/toffee/ferdos.php?id=pogo_sd
