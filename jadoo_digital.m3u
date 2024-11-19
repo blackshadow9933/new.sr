@@ -1,72 +1,72 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" group-title="SPORTS", BAN vs AFG
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" group-title="SPORTS", ATN Bangla
 https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="SPORTS", Sports VIP
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="SPORTS", ATN News 
 https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="TOFFEE",Movies VIP
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="TOFFEE", AL Jazeera
 https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="TOFFEE",Dramas VIP
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="TOFFEE", Ananda TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" group-title="SPORTS",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" group-title="SPORTS", Arirang
 https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="SPORTS",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="SPORTS", Asian
 https://bdix-toffee.iptvbd.xyz/live.php?id=abc6677968ef&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="SPORTS",SONY SPORTS TEN 3 HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="SPORTS", BBC Lifestyle 
 https://bdix-toffee.iptvbd.xyz/live.php?id=edc6a07e4754&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="SPORTS",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="SPORTS", BBC World 
 https://bdix-toffee.iptvbd.xyz/live.php?id=fd6de8bd1666&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="SPORTS",Euro Sport 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="SPORTS", BTV World 
 https://bdix-toffee.iptvbd.xyz/live.php?id=5221aff96f3c&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="SPORTS",Euro Sport HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="SPORTS", Bangla TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=258468998307&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="HINDI", Banglavision 
 https://bdix-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="HINDI", Bijoy TV 
 https://bdix-toffee.iptvbd.xyz/live.php?id=243771d9592c&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="HINDI",SONY MAX 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="HINDI", Boishakhi 
 https://bdix-toffee.iptvbd.xyz/live.php?id=b6192dbff21b&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" group-title="HINDI",SONY MAX HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" group-title="HINDI", Cbeebies Asia
 https://bdix-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" group-title="MUSIC",B4U Music VIP
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" group-title="MUSIC", CGTN News
 https://bdix-toffee.iptvbd.xyz/live.php?id=a40abb7586bc&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="KOLKATA",Sony Aat
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="KOLKATA", CNN
 https://bdix-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="HINDI",SONY SAB HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="HINDI", Channel 24
 https://bdix-toffee.iptvbd.xyz/live.php?id=b7167fe646a4&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="HINDI",SONY MAX 2
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="HINDI", Channel 9
 https://bdix-toffee.iptvbd.xyz/live.php?id=420510be5c17&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="KIDS",SONY YAY BANGLA
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="KIDS", Channel I
 https://bdix-toffee.iptvbd.xyz/live.php?id=57bd9c2493c1&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/colors_hd.png" group-title="HINDI",SONY WAH
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/colors_hd.png" group-title="HINDI", Colors HD
 https://bdix-toffee.iptvbd.xyz/live.php?id=a6497ebbf14f&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="DOCUMENTORY", DBC News
 https://bdix-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png" group-title="HINDI",SONY PIX HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png" group-title="HINDI", DW
 https://bdix-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="HINDI",B4U Movies VIP
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="HINDI", Deepto TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=ac21c8534679&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="KIDS",DISCOVERY KIDS
