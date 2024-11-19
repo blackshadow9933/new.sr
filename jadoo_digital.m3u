@@ -69,37 +69,37 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="HINDI", Deepto TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=ac21c8534679&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="KIDS",DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="KIDS", Desh TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=1fe9cf550c24&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="KIDS",CARTOON NETWORK HD+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="KIDS", Duronto 
 https://bdix-toffee.iptvbd.xyz/live.php?id=206c4fa8e760&e=.m3u8
 
-#EXTINF:-1 tvg-logo="src="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png"" group-title="KIDS",POGO
+#EXTINF:-1 tvg-logo="src="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png"" group-title="KIDS", Ekattor TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=38060f0d4077&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="DOCUMENTORY",ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="DOCUMENTORY", Ekushey TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=f70ef199f41d&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png" group-title="DOCUMENTORY",ANIMAL PLANET SD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png" group-title="DOCUMENTORY", Fox Action Movies HD
 https://bdix-toffee.iptvbd.xyz/live.php?id=52d1df2fdb80&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/france24_fran%C3%A7ais.png" group-title="DOCUMENTORY",DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/france24_fran%C3%A7ais.png" group-title="DOCUMENTORY", France 24
 https://bdix-toffee.iptvbd.xyz/live.php?id=77e72f2ba472&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="DOCUMENTORY",DISCOVERY SD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="DOCUMENTORY", Gaan Bangla 
 https://bdix-toffee.iptvbd.xyz/live.php?id=a1c4e01414e7&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="DOCUMENTORY",DISCOVERY SCIENCE 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="DOCUMENTORY", Gazi TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=591ea81b1aba&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="DOCUMENTORY",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="DOCUMENTORY", Independent TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=a051de5ade20&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="DOCUMENTORY",Investigation Discovery HD
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="DOCUMENTORY", Jamuna TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=6789650f5629&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" group-title="DOCUMENTORY",Investigation Discovery 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" group-title="DOCUMENTORY", Macau Lotus
 https://bdix-toffee.iptvbd.xyz/live.php?id=05715523849a&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTORY",TLC HD
