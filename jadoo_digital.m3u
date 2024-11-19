@@ -75,7 +75,7 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=1fe9cf550c24&e=.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="KIDS", Duronto 
 https://bdix-toffee.iptvbd.xyz/live.php?id=206c4fa8e760&e=.m3u8
 
-#EXTINF:-1 tvg-logo="src="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png"" group-title="KIDS", Ekattor TV
+#EXTINF:-1 tvg-logo="src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s"" group-title="KIDS", Ekattor TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=38060f0d4077&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="DOCUMENTORY", Ekushey TV
@@ -102,7 +102,7 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=6789650f5629&e=.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" group-title="DOCUMENTORY", Macau Lotus
 https://bdix-toffee.iptvbd.xyz/live.php?id=05715523849a&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" group-title="DOCUMENTORY", My TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-4dDHR7Wec61F5Wt75NyQveP68Pnt3qKmLXA8FF7hFx87YG6u" group-title="DOCUMENTORY", My TV
 https://bdix-toffee.iptvbd.xyz/live.php?id=090bf33a56cb&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="DOCUMENTORY", Maasranga TV
