@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" group-title="SPORTS", ATN Bangla
-https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=wNVtAJ3JXzY4aUZO1rMrMw&expires=1732241275&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="SPORTS", ATN News 
-https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=5rfXYhwirjf2kbiEAVE-ag&expires=1732241300&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="TOFFEE", AL Jazeera
-https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=WvLuMLZlPvShDeVXQEiguA&expires=1732241328&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="TOFFEE", Ananda TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=IJFigS0mvX9ygdyzlUbEZQ&expires=1732241348&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" group-title="SPORTS", Arirang
-https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=CRJjd16H6ML4s1MxwjTYGw&expires=1732241396&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="SPORTS", Asian
-https://bdix-toffee.iptvbd.xyz/live.php?id=abc6677968ef&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=aOCULE2Jv1y1g2_69uCJPA&expires=1732241444&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="SPORTS", BBC Lifestyle 
-https://bdix-toffee.iptvbd.xyz/live.php?id=edc6a07e4754&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=3qvihWWkQWm2mR4PDI7cgA&expires=1732241479&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="SPORTS", BBC World 
-https://bdix-toffee.iptvbd.xyz/live.php?id=fd6de8bd1666&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=aOCULE2Jv1y1g2_69uCJPA&expires=1732241444&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="SPORTS", BTV World 
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=SZNh3kgMlAd3my2wlYcrKg&expires=1732239489&user=8333f5cef8e441a0abd75ae8344d39d7
@@ -55,103 +55,103 @@ https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=Ktnxse5H-G0O
 https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=UqpLm7bLCSBBhZYicXi1mg&expires=1732239135&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="KIDS", Channel I
-https://bdix-toffee.iptvbd.xyz/live.php?id=57bd9c2493c1&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=d76__stnRRlRBhxL_U-2_w&expires=1732239529&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/colors_hd.png" group-title="HINDI", Colors HD
-https://bdix-toffee.iptvbd.xyz/live.php?id=a6497ebbf14f&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/colors_hd/playlist.m3u8?md5=kZmjHqdnhEzbfxs55qMcZg&expires=1732240047&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="DOCUMENTORY", DBC News
-https://bdix-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=haqr7WAcI3n7NKZbswVY_w&expires=1732240079&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png" group-title="HINDI", DW
-https://bdix-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=xJAEbwL9SNj3iEvzqARlBg&expires=1732240127&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="HINDI", Deepto TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=ac21c8534679&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=PuqQJh4oR-is14_uhAGUTw&expires=1732240162&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="KIDS", Desh TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=1fe9cf550c24&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=To2RXsuAMa1sdQfj0P_JBA&expires=1732240199&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="KIDS", Duronto 
-https://bdix-toffee.iptvbd.xyz/live.php?id=206c4fa8e760&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=fHKuTJg9EAg4RoXvN7g31w&expires=1732240231&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="src="https://i.postimg.cc/ZKSYmgNd/images.jpg"" group-title="KIDS", Ekattor TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=38060f0d4077&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=45LhsHAWf44jvdnqbOFeXA&expires=1732240301&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="DOCUMENTORY", Ekushey TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=f70ef199f41d&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=O3eQytWZARYMW51gmiD20g&expires=1732240327&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png" group-title="DOCUMENTORY", Fox Action Movies HD
-https://bdix-toffee.iptvbd.xyz/live.php?id=52d1df2fdb80&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/fox_action_movies_hd/playlist.m3u8?md5=RgWLIJakTkALgVf269AYKQ&expires=1732240354&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/france24_fran%C3%A7ais.png" group-title="DOCUMENTORY", France 24
-https://bdix-toffee.iptvbd.xyz/live.php?id=77e72f2ba472&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/france24_francais/playlist.m3u8?md5=oGZ1gwnd8IXr3loMisFLPw&expires=1732240381&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="DOCUMENTORY", Gaan Bangla 
-https://bdix-toffee.iptvbd.xyz/live.php?id=a1c4e01414e7&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=YHEDQ2upqKkDCFl3wJvUOw&expires=1732240414&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="DOCUMENTORY", Gazi TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=591ea81b1aba&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=YV5nxcI0npOy8_HfJm1zcQ&expires=1732240449&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="DOCUMENTORY", Independent TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=a051de5ade20&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=TTmCC5nB-i5n0nU13nBAfg&expires=1732240476&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="DOCUMENTORY", Jamuna TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=6789650f5629&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=qLSCZZLJTLBegmHmm5gRYg&expires=1732240501&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" group-title="DOCUMENTORY", Macau Lotus
-https://bdix-toffee.iptvbd.xyz/live.php?id=05715523849a&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=JS59HgzDQ2xEI59eNDrCMw&expires=1732240529&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMx9TcHX/images-1.jpg" group-title="DOCUMENTORY", My TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=090bf33a56cb&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=HmdIYl8K0lSnhC9WC80Kag&expires=1732240560&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" group-title="DOCUMENTORY", Maasranga TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=e12a84713a40&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=v7F16xgB3MMN4hmZ9NfZmA&expires=1732240611&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" group-title="SPORTS", NHK World 
-https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/nhk_world/playlist.m3u8?md5=zZ2qcNNmsUcN9JGtR9TyMw&expires=1732240658&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="SPORTS", N TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=LSi6_Ste0kdh9R4g1lcLAA&expires=1732240687&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="TOFFEE", Nagorik TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=Ioi2DoJC1rEcK2CCnkDF5w&expires=1732240726&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="TOFFEE", News 24
-https://bdix-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=vd7s5aKdyzFydCrFugwepQ&expires=1732240802&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title="SPORTS", Nexus TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=8GYom2vGn5V74IzYiu0S5g&expires=1732240834&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" group-title="SPORTS", Quran TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=abc6677968ef&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=m3o7T4O2x3fkXQACBUbCyA&expires=1732240864&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png" group-title="SPORTS", RT English 
-https://bdix-toffee.iptvbd.xyz/live.php?id=edc6a07e4754&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/rt_english/playlist.m3u8?md5=4T2YMEeOMB3zvL7Q2iVOrw&expires=1732240900&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="SPORTS", R TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=fd6de8bd1666&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=iBjsRGXClZ82JcnS-OTcIg&expires=1732240933&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="SPORTS", SA TV 
-https://bdix-toffee.iptvbd.xyz/live.php?id=5221aff96f3c&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=tQyPjR6F5LdsLQ3GVZVpEw&expires=1732240959&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sangsad_tv.png" group-title="SPORTS", Sangsad TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=258468998307&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/playlist.m3u8?md5=08LcHpgcX6Z62gmlDB-eTg&expires=1732241048&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="HINDI", Somoy News
-https://bdix-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=zrFZXJ51M1_iTOzsXB3SgA&expires=1732241084&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sunnah_tv.png" group-title="HINDI", Sunnah 
-https://bdix-toffee.iptvbd.xyz/live.php?id=243771d9592c&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/sunnah_tv/playlist.m3u8?md5=44dlh1FRejwLK3KmMvz3TQ&expires=1732241113&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="HINDI", T Sports 
-https://bdix-toffee.iptvbd.xyz/live.php?id=b6192dbff21b&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=2ge0MCVf3qweCBJtCQ2acw&expires=1732241170&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="HINDI", Zee Bangla
-https://bdix-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=5cE8sFCYrjjYdGSzOjJ3Rg&expires=1732241132&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="MUSIC", Zee Cinema 
-https://bdix-toffee.iptvbd.xyz/live.php?id=a40abb7586bc&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=FCNWPKH7B-3iBw_NYeCAWw&expires=1732241191&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="KOLKATA", Zee TV
-https://bdix-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=F3jGN8dqPUv9hjuX7e-fHw&expires=1732241229&user=8333f5cef8e441a0abd75ae8344d39d7
