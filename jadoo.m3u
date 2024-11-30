@@ -96,16 +96,6 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=eiNV5_1U4Job
 https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=n74n-YRlpwSYab27KDGCyA&expires=1732835192&user=d477246e9e724f81a011b847457e71c4   
 #EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=azcGF6mZNx0bRWiQxWgDyg&expires=1732835203&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Arirang
-https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=Ge95cDkuVBT2dHEjVx-X8Q&expires=1732574075&user=d477246e9e724f81a011b847457e71c4   
-#EXTINF:-1 tvg-name="Asian Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Asian Tv
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=mh-DJEAP6YvCI-JaU5yJ_g&expires=1732834349&user=d477246e9e724f81a011b847457e71c4   
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BBC Lifestyle
-https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=9A4hdsofaA73HIpsRa8Y8g&expires=1732834414&user=d477246e9e724f81a011b847457e71c4 
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BBC World
-https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=hkWm7bRjJH4nYNau2ShHfw&expires=1732834425&user=d477246e9e724f81a011b847457e71c4   
-#EXTINF:-1 tvg-name="BTV World" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BTV World
-http://103.175.242.10:8080/hls/btv/index.m3u8  
 #EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bangla TV
 https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=w59WxqjVLwnxKf6o6S9PBA&expires=1732574220&user=d477246e9e724f81a011b847457e71c4 8afba3b78dcfe7a26a8c3663b9b8c1ae064  
 #EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bangla Vision
